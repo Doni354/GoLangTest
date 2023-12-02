@@ -1,6 +1,6 @@
 package go_say_hello
 import "fmt"
-func SayHello() {
+func SayHello(string) {
 	var a string
 	fmt.Println("Hello World!")
 	fmt.Println("What's your name?")
